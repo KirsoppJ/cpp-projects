@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Character.cpp
+Character.h
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Character.h
+
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Character.h
+string
+-
+
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Rollercoaster.h
+string
+-
+
+/home/josh/cpp/cpp-projects/John-Rollercoasters/main.cpp
+iostream
+-
+Character.h
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Character.h
+cstdlib
+-
+ctime
+-
+vector
+-
+Character.h
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Character.h
+Rollercoaster.h
+/home/josh/cpp/cpp-projects/John-Rollercoasters/Rollercoaster.h
+
